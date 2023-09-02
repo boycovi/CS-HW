@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapFirstNums", "Lesson_2\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticMean", "Lesson_2\ArithmeticMean\ArithmeticMean.csproj", "{77A891A8-BC69-4BA5-A604-D5F50653F301}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapTwoNums", "Lesson_2\SwapTwoNums\SwapTwoNums.csproj", "{6BB63FD5-301A-4266-A063-18E7A3E443E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{77A891A8-BC69-4BA5-A604-D5F50653F301}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77A891A8-BC69-4BA5-A604-D5F50653F301}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77A891A8-BC69-4BA5-A604-D5F50653F301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB63FD5-301A-4266-A063-18E7A3E443E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB63FD5-301A-4266-A063-18E7A3E443E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB63FD5-301A-4266-A063-18E7A3E443E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB63FD5-301A-4266-A063-18E7A3E443E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
