@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#Basic", "C#Basic\C#Basic.csproj", "{FD5E5EE5-A54E-4B8D-AA34-4CBC68F090FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Lesson_2\Reverse String\Reverse String.csproj", "{3D091987-29E1-47B6-BAFA-95CDC377D066}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD5E5EE5-A54E-4B8D-AA34-4CBC68F090FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD5E5EE5-A54E-4B8D-AA34-4CBC68F090FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD5E5EE5-A54E-4B8D-AA34-4CBC68F090FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D091987-29E1-47B6-BAFA-95CDC377D066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D091987-29E1-47B6-BAFA-95CDC377D066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D091987-29E1-47B6-BAFA-95CDC377D066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D091987-29E1-47B6-BAFA-95CDC377D066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
