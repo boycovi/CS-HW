@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#Basic", "C#Basic\C#Basic.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Lesson_2\Reverse String\Reverse String.csproj", "{3D091987-29E1-47B6-BAFA-95CDC377D066}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumSquared", "Lesson_2\NumSquared\NumSquared.csproj", "{C707779A-A259-482F-8DAA-334A4F3F8E1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3D091987-29E1-47B6-BAFA-95CDC377D066}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D091987-29E1-47B6-BAFA-95CDC377D066}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D091987-29E1-47B6-BAFA-95CDC377D066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C707779A-A259-482F-8DAA-334A4F3F8E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C707779A-A259-482F-8DAA-334A4F3F8E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C707779A-A259-482F-8DAA-334A4F3F8E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C707779A-A259-482F-8DAA-334A4F3F8E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
