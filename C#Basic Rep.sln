@@ -5,15 +5,15 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#Basic", "C#Basic\C#Basic.csproj", "{FD5E5EE5-A54E-4B8D-AA34-4CBC68F090FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Lesson_2\Reverse String\Reverse String.csproj", "{3D091987-29E1-47B6-BAFA-95CDC377D066}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Num", "Lesson_2\Reverse String\Reverse Num.csproj", "{3D091987-29E1-47B6-BAFA-95CDC377D066}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumSquared", "Lesson_2\NumSquared\NumSquared.csproj", "{C707779A-A259-482F-8DAA-334A4F3F8E1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumSquared", "Lesson_2\NumSquared\NumSquared.csproj", "{C707779A-A259-482F-8DAA-334A4F3F8E1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapFirstNums", "Lesson_2\SwapFirstNums\SwapFirstNums.csproj", "{189B42CE-B2A0-4BC1-8468-5947B91E8D95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapFirstNums", "Lesson_2\SwapFirstNums\SwapFirstNums.csproj", "{189B42CE-B2A0-4BC1-8468-5947B91E8D95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticMean", "Lesson_2\ArithmeticMean\ArithmeticMean.csproj", "{77A891A8-BC69-4BA5-A604-D5F50653F301}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArithmeticMean", "Lesson_2\ArithmeticMean\ArithmeticMean.csproj", "{77A891A8-BC69-4BA5-A604-D5F50653F301}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapTwoNums", "Lesson_2\SwapTwoNums\SwapTwoNums.csproj", "{6BB63FD5-301A-4266-A063-18E7A3E443E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapTwoNums", "Lesson_2\SwapTwoNums\SwapTwoNums.csproj", "{6BB63FD5-301A-4266-A063-18E7A3E443E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
