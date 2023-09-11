@@ -1,6 +1,6 @@
 ﻿bool guessed = false;
 Random random = new Random();
-byte num = (byte)random.Next(1, 146);
+int num = random.Next(1, 146);
 
 while (!guessed)
 {
@@ -8,11 +8,12 @@ while (!guessed)
     var x = Console.ReadLine();
     int.TryParse(x, out int guess);
     if (guess > num) Console.WriteLine("Less");
-    if (guess < num) Console.WriteLine("Greater");
+    else if (guess < num) Console.WriteLine("Greater");
     else
     {
         Console.WriteLine("You guessed it!");
         guessed = true;
     }
 }
+Thread.Sleep(1000);
 Environment.Exit(0);
