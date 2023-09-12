@@ -6,7 +6,12 @@ while (!guessed)
 {
     Console.WriteLine("Guess the number between 1 and 146");
     var x = Console.ReadLine();
-    int.TryParse(x, out int guess);
+    if (int.TryParse(x, out int guess));
+    else
+    {
+        Console.WriteLine("Wrong Input");
+        continue;
+    }
     if (guess > num) Console.WriteLine("Less");
     else if (guess < num) Console.WriteLine("Greater");
     else
