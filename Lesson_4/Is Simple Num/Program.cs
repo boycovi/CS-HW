@@ -1,6 +1,7 @@
 ﻿Random random = new Random();
 int genNum = random.Next(2, 1000);
 Console.WriteLine(genNum);
+CheckSimple(genNum);
 
 static bool CheckSimple(int num)
 {
