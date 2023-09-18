@@ -27,15 +27,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FIzzBuzz", "Lesson_3\FIzzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array To Array Beggining", "Lesson_5\Array To Array Beggining\Array To Array Beggining.csproj", "{7D6A54B3-CBBB-4B1B-B0BB-384A8CC0C4FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stop On -1", "Lesson_5\Stop On -1\Stop On -1.csproj", "{5ED06D0B-2406-417C-9E79-F7ACEED46918}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stop On -1", "Lesson_5\Stop On -1\Stop On -1.csproj", "{5ED06D0B-2406-417C-9E79-F7ACEED46918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combine", "Lesson_5\Combine\Combine.csproj", "{41F01F29-D2DD-4766-A2A6-6C11CCA06A67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Combine", "Lesson_5\Combine\Combine.csproj", "{41F01F29-D2DD-4766-A2A6-6C11CCA06A67}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Num From Index", "Lesson_5\Get Num From Index\Get Num From Index.csproj", "{BEB47E33-1899-49E0-B562-D877867E4EE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove From Array By Index", "Lesson_5\Remove From Array By Index\Remove From Array By Index.csproj", "{5FE5227F-D03F-4264-9F36-39094EA40678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove From Array By Index", "Lesson_5\Remove From Array By Index\Remove From Array By Index.csproj", "{5FE5227F-D03F-4264-9F36-39094EA40678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is Sorted", "Lesson_5\Is Sorted\Is Sorted.csproj", "{008160B0-D543-4B03-95FD-9B7B69C7D2B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is Sorted", "Lesson_5\Is Sorted\Is Sorted.csproj", "{008160B0-D543-4B03-95FD-9B7B69C7D2B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Even Nums", "Lesson_6\Sum Even Nums\Sum Even Nums.csproj", "{011E2F45-645A-4F30-B371-8C99BFDBB5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply Greater Input", "Lesson_6\Multiply Greater Input\Multiply Greater Input.csproj", "{779BCF7B-D2BD-4663-908B-1685F0F8D0FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{008160B0-D543-4B03-95FD-9B7B69C7D2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{008160B0-D543-4B03-95FD-9B7B69C7D2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{008160B0-D543-4B03-95FD-9B7B69C7D2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011E2F45-645A-4F30-B371-8C99BFDBB5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011E2F45-645A-4F30-B371-8C99BFDBB5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011E2F45-645A-4F30-B371-8C99BFDBB5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011E2F45-645A-4F30-B371-8C99BFDBB5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779BCF7B-D2BD-4663-908B-1685F0F8D0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779BCF7B-D2BD-4663-908B-1685F0F8D0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779BCF7B-D2BD-4663-908B-1685F0F8D0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779BCF7B-D2BD-4663-908B-1685F0F8D0FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
