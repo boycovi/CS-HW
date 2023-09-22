@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count In Matrix", "Lesson_6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort Surnames", "Lesson_6\Sort Surnames\Sort Surnames.csproj", "{197A06F1-F01C-49DB-8006-43E0F3F1DE8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student Journal", "Lesson_6\Student Journal\Student Journal.csproj", "{721811D7-464F-422B-8916-CED8F7ED7F35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student Journal", "Lesson_6\Student Journal\Student Journal.csproj", "{721811D7-464F-422B-8916-CED8F7ED7F35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Lesson_7\Calculator\Calculator.csproj", "{81B05E1F-5DEC-4580-9801-96501511FB95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{721811D7-464F-422B-8916-CED8F7ED7F35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{721811D7-464F-422B-8916-CED8F7ED7F35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{721811D7-464F-422B-8916-CED8F7ED7F35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B05E1F-5DEC-4580-9801-96501511FB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B05E1F-5DEC-4580-9801-96501511FB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B05E1F-5DEC-4580-9801-96501511FB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B05E1F-5DEC-4580-9801-96501511FB95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
