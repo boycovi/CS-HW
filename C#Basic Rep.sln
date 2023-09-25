@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort Surnames", "Lesson_6\S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student Journal", "Lesson_6\Student Journal\Student Journal.csproj", "{721811D7-464F-422B-8916-CED8F7ED7F35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Lesson_7\Calculator\Calculator.csproj", "{81B05E1F-5DEC-4580-9801-96501511FB95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Lesson_7\Calculator\Calculator.csproj", "{81B05E1F-5DEC-4580-9801-96501511FB95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "Lesson_8\Address\Address.csproj", "{E6425D74-6579-4983-8287-35563FD382A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{81B05E1F-5DEC-4580-9801-96501511FB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81B05E1F-5DEC-4580-9801-96501511FB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81B05E1F-5DEC-4580-9801-96501511FB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6425D74-6579-4983-8287-35563FD382A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6425D74-6579-4983-8287-35563FD382A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6425D74-6579-4983-8287-35563FD382A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6425D74-6579-4983-8287-35563FD382A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
