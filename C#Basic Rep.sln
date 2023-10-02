@@ -49,7 +49,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student Journal", "Lesson_6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Lesson_7\Calculator\Calculator.csproj", "{81B05E1F-5DEC-4580-9801-96501511FB95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "Lesson_8\Address\Address.csproj", "{E6425D74-6579-4983-8287-35563FD382A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Address", "Lesson_8\Address\Address.csproj", "{E6425D74-6579-4983-8287-35563FD382A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Lesson_9\Rectangle\Rectangle.csproj", "{F83CB34E-D4B7-42A0-9509-F4D38DA6CAE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User", "Lesson_9\User\User.csproj", "{3048B281-29EF-4B2F-AF04-3FFE4E86CAAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,14 @@ Global
 		{E6425D74-6579-4983-8287-35563FD382A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6425D74-6579-4983-8287-35563FD382A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6425D74-6579-4983-8287-35563FD382A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83CB34E-D4B7-42A0-9509-F4D38DA6CAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83CB34E-D4B7-42A0-9509-F4D38DA6CAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83CB34E-D4B7-42A0-9509-F4D38DA6CAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83CB34E-D4B7-42A0-9509-F4D38DA6CAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3048B281-29EF-4B2F-AF04-3FFE4E86CAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3048B281-29EF-4B2F-AF04-3FFE4E86CAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3048B281-29EF-4B2F-AF04-3FFE4E86CAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3048B281-29EF-4B2F-AF04-3FFE4E86CAAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
