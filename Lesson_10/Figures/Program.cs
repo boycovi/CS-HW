@@ -46,8 +46,7 @@
         public void GetInfo()
         {
             base.GetInfo();
-            Console.WriteLine($"Width: {Width}");
-            Console.WriteLine($"Height: {Height}");
+            Console.WriteLine($"Width: {Width}\nHeight: {Height}");
         }
     }
 

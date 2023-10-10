@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle", "Lesson_9\Recta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User", "Lesson_9\User\User.csproj", "{3048B281-29EF-4B2F-AF04-3FFE4E86CAAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Lesson_10\Figures\Figures.csproj", "{3D14B381-80B3-4B32-90DC-A28BC8A94BD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Figures", "Lesson_10\Figures\Figures.csproj", "{3D14B381-80B3-4B32-90DC-A28BC8A94BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transport", "Lesson_10\Transport\Transport.csproj", "{33AD9075-1DAB-40EE-9656-A4422F7E53E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{3D14B381-80B3-4B32-90DC-A28BC8A94BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D14B381-80B3-4B32-90DC-A28BC8A94BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D14B381-80B3-4B32-90DC-A28BC8A94BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AD9075-1DAB-40EE-9656-A4422F7E53E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AD9075-1DAB-40EE-9656-A4422F7E53E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AD9075-1DAB-40EE-9656-A4422F7E53E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AD9075-1DAB-40EE-9656-A4422F7E53E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
