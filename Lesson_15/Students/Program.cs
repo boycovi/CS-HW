@@ -72,7 +72,7 @@
             {
                 Console.WriteLine(info);
             }
-
+            Console.ReadKey();
         }
     }
 }
